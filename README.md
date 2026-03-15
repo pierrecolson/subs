@@ -1,0 +1,2 @@
+# subs
+Personal subscription tracker
